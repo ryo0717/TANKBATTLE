@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿//キー入力を受け付ける
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

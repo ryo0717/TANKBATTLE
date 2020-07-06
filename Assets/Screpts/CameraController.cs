@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿//カメラのコントローラー
+using UnityEngine;
 using System.Collections;
 
 public class CameraController : MonoBehaviour {

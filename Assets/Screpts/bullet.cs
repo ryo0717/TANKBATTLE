@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿//戦車の球のステータス
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -12,7 +13,6 @@ public class bullet : MonoBehaviour
             GameObject effects = Instantiate(effect) as GameObject;
             // 弾丸の位置を調整
             effects.transform.position = this.transform.position;
-            // Debug.Log(this.transform.position);
             Destroy(this.gameObject);
         }
         

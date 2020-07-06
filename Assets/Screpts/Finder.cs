@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿//敵戦車を探す
+using UnityEngine;
 using System.Collections.Generic;
 
 public class Finder : MonoBehaviour

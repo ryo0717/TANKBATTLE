@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿//カメラの回転
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
  

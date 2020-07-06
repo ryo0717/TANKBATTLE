@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿//メイン画面への画面遷移
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

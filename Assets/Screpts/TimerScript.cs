@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿//時間を管理する
+using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
  

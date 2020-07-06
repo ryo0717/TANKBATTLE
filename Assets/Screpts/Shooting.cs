@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿//戦車の球を生成する
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
  

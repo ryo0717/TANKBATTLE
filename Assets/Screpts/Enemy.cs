@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿//敵戦車のステータス
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
